@@ -1,6 +1,4 @@
 import { useEffect } from "react";
-import "../styles/globals.css";
-
 export default function Home() {
   useEffect(() => {
     const script = document.createElement("script");
