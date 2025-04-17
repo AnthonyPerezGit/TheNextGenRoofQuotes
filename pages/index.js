@@ -37,7 +37,7 @@ export default function Home() {
           AI-powered instant quotes. Automated follow-ups. More booked jobs.
         </p>
         <a
-          href="https://form.jotform.com/251025584155050"
+          href="https://form.jotform.com/251047668747165"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-green-600 text-white py-3 px-6 rounded-xl text-lg shadow hover:bg-green-700 transition"
